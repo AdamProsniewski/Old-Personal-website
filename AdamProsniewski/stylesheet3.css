@@ -17,6 +17,15 @@ h4
     font-weight: normal;
     margin:0;
 }
+h2
+{
+    
+    font-weight: normal;
+    position: absolute;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: -30%;
+}
 body
 {
     background-color:rgb(39, 37, 37);
@@ -134,4 +143,9 @@ hr {
 .right
 {
     margin-right: auto;
+}
+.myphoto
+{
+    transform-origin: top left;
+    transform: scale(0.5,0.5);
 }
