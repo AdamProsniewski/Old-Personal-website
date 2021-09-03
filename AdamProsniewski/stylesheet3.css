@@ -1,3 +1,4 @@
+h1{text-align: center;}
 h3
 {
     font-size: 18px;
@@ -24,7 +25,7 @@ h2
     position: absolute;
     margin-left: 20%;
     margin-right: 10%;
-    margin-top: -30%;
+    margin-top: -32%;
 }
 body
 {
@@ -148,4 +149,9 @@ hr {
 {
     transform-origin: top left;
     transform: scale(0.5,0.5);
+}
+.row
+{
+    display: flex;
+    margin-left: 24%;
 }
