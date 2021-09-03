@@ -14,7 +14,7 @@ h5
 }
 h4
 {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: normal;
     margin:0;
 }
@@ -22,10 +22,10 @@ h2
 {
     
     font-weight: normal;
-    position: absolute;
-    margin-left: 20%;
+    margin-left: 15%;
     margin-right: 10%;
-    margin-top: -32%;
+
+
 }
 body
 {
@@ -148,10 +148,14 @@ hr {
 .myphoto
 {
     transform-origin: top left;
-    transform: scale(0.5,0.5);
+    transform: scale(2.5,2.5);
 }
 .row
 {
     display: flex;
     margin-left: 24%;
+}
+#summary
+{
+    display:flex;
 }
